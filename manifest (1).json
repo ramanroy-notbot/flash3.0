@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Analyze photos, handwritten notes, PDFs, or text and convert them into AnkiDroid-ready flashcard decks with custom delimiters, cloze deletions, and step-by-step import instructions.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "flash",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "flash30.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
