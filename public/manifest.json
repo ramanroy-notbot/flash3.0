@@ -14,7 +14,7 @@
   "icons": [
     {
       "src": "/surgeon_avatar.png",
-      "sizes": "192×192",
+      "sizes": "any2",
       "type": "image/jpeg"
     },
     {
