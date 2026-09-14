@@ -52,7 +52,10 @@ export default async function handler(req: any, res: any) {
     }
 
     // 5. Return Gemini output to the frontend
-    return res.status(200).json(data);
+    return res.status(200).json({
+  success: true,
+  deck: data
+});
   } catch (error: any) {
     return res.status(500).json({
       error: error.message || 'Internal Server Error'
