@@ -13,12 +13,12 @@
   "scope": "/",
   "icons": [
     {
-      "src": "/surgeon_avatar.jpg",
+      "src": "/surgeon_avatar.png",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "/surgeon_avatar_1789186023681.jpg",
+      "src": "/surgeon_avatar_1789186023681.png",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
